@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meetup-app/static/css/main.ea5be955.css",
+    "main.js": "/meetup-app/static/js/main.14a9263a.js",
+    "static/js/453.6cf05f9d.chunk.js": "/meetup-app/static/js/453.6cf05f9d.chunk.js",
+    "index.html": "/meetup-app/index.html",
+    "main.ea5be955.css.map": "/meetup-app/static/css/main.ea5be955.css.map",
+    "main.14a9263a.js.map": "/meetup-app/static/js/main.14a9263a.js.map",
+    "453.6cf05f9d.chunk.js.map": "/meetup-app/static/js/453.6cf05f9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea5be955.css",
+    "static/js/main.14a9263a.js"
+  ]
+}
